@@ -25,7 +25,7 @@ I modelli di processo per l'effettuazione dei pagamenti adottati dal sistema son
 
 -  pagamento eseguito attraverso il sito dell'Ente Creditore, applicabile ai pagamenti contestuali alla richiesta di servizio, nei quali l'autorizzazione può essere gestita;
 
-   -  attraverso il re indirizzamento on line verso sistemi atti a gestire la transazione,
+   -  attraverso il reindirizzamento on line verso sistemi atti a gestire la transazione,
 
    -  gestita dal PSP con modalità esterne al processo;
 

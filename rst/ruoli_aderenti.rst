@@ -21,7 +21,7 @@ Adesione di un Ente Creditore
 
 Per la fruizione del Servizio, l'Ente Creditore, sia esso una Pubblica Amministrazione, una società a controllo pubblico o un soggetto gestore di pubblici servizi, deve preliminarmente aderire al sistema attraverso le funzionalità del Portale delle Adesioni che consente, tra l'altro, l'invio all'Agenzia per l'Italia Digitale della lettera di adesione.
 
-Tale adempimento consente il censimento del soggetto al Dominio (di cui al paragrafo 4.2.1) e comporta la nomina di un “Referente dei pagamenti”, ossia della persona indicata dall'Ente Creditore quale referente e responsabile nei confronti dell'Agenzia per l'Italia Digitale.
+Tale adempimento consente il censimento del soggetto al Dominio (di cui al paragrafo 4.2.1) e comporta la nomina di un "Referente dei pagamenti", ossia della persona indicata dall'Ente Creditore quale referente e responsabile nei confronti dell'Agenzia per l'Italia Digitale.
 
 Ulteriore prerequisito per l'adesione da parte degli Enti Creditori, ove obbligati per legge a tale adempimento, è l'accreditamento nell'archivio IPA (Indice delle Pubbliche Amministrazioni), ossia nell'archivio ufficiale contenente i riferimenti delle pubbliche Amministrazioni e dei Gestori di Pubblici Servizi in quanto obbligatorio ai sensi dell'art.12 del DPCM del 31/10/2000 recante le "Regole tecniche per l'adozione del protocollo informatico".
 
